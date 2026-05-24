@@ -1111,7 +1111,7 @@ quadrantChart
 
 BSD 3-Clause License — see [LICENSE](./LICENSE) for the full text.
 
-Built by [tejashmkumar](https://reddit.com/user/tejashmkumar) for the [Reddit Mod Tools and Migrated Apps Hackathon 2026](https://devpost.com).
+Built by [tejash](https://www.reddit.com/user/First_Box8095/) for the [Reddit Mod Tools and Migrated Apps Hackathon 2026](https://devpost.com).
 
 ---
 
